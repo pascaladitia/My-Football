@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Football</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="schedul">Schedul</string>
+    <string name="about">About</string>
+    <string name="vesion_1_0_0">Vesion 1.0.0</string>
+    <string name="created">Created by Pascal Aditia Muclis</string>
+    <string name="desk">Aplikasi ini dibuat untuk menampilkan list club sepak bola, jadwal sepak bola dan info-info lainnya, aplikasi ini masih tahap pengembangan dan akan ditambahkan lagi fitur-fitur lainnya, aplikasi ini menggunakan Rest API pada SportDb</string>
+</resources>
